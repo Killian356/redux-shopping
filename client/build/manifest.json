@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Redux Shopping App",
+  "name": "Create a Sample Page for React Shopping App",
   "icons": [
     {
       "src": "favicon.ico",
